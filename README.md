@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/linkedin-cover.jpg" alt="MikeTechSecurity LinkedIn cover" width="100%" />
+<p align="center">
+  <img src="./MikeTechSecurity-Cover.png" alt="MikeTechSecurity Cover" width="100%">
+</p>
 
 # WhoAmI
 
